@@ -35,7 +35,7 @@ dash:
 
   show_author: true
 
-  animation_speed: 50
+  animation_speed: 30
 
 # Build settings
 theme: jekyll-dash
